@@ -1,0 +1,85 @@
+ body
+ {
+    background-color: #6123c4;
+ }
+ .nav
+ {
+    margin-top: 15px;
+    padding-left: 50px;
+ }
+.nav-link
+{
+    color: white;
+}
+.dropdown-menu
+{
+    background-color: #9E61FF;
+}
+.dropdown-item
+{
+    color: white;
+}
+#menu2
+{
+    padding-left: 700px;
+    margin-top: 0px;
+}
+.btn
+{
+    background-color:#9E61FF ;
+    border-color: #9E61FF;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+h1
+{
+    font-family: Arial;
+    font-size: 48px;
+    margin-top: 70px;
+    color: white;
+    margin-left: 50px;
+    padding-right: 920px;
+}
+.underlined
+{
+    text-decoration: underline;
+}
+p
+{
+    color: whitesmoke;
+    font-size: 16px;
+    font-family: Arial;
+    margin-top: 40px;
+    padding-right: 920px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.btn-light
+{
+    background-color: white;
+    color: #6123c4;
+    margin-bottom: 20px;
+}
+.carousel-inner
+{
+    justify-content: center;
+    max-width: 700px;
+    max-height: 350px;
+}
+h5
+{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 14px;
+    margin-top: 30px;
+    font-family: Arial;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+#imgfooter
+{
+    margin-right: 40px;
+    justify-content: center;
+    display: flex;
+    margin-left: 30px;
+}
