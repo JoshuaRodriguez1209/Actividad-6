@@ -1,0 +1,77 @@
+﻿#menu a {
+    color: white;
+    font-family: 'Lucida Console';
+    font-size: 15px;
+}
+div{
+    margin-left: 6%;
+    margin-right: 6%;
+}
+h1 {
+    font-family: 'Lucida Sans';
+    font-size: 50px;
+    text-align: center;
+    margin-top: 80px;
+    color: black;
+}
+p {
+    font-family: Verdana;
+    margin-top: 30px;
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 50px;
+    text-align: justify;
+    font-size:30px;
+}
+ul {
+    font-family: Verdana;
+    font-size: 30px;
+    margin-top: 40px;
+    color: black;
+}
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/vector-golden-turquoise-blue-abstract-doodle-drawing-line-texture-seamless-pattern-background-great-elegant-gold-fabric-89087462.jpg");
+}.carousel-inner{
+     margin-top: 80px;
+     max-height: 20rem;
+     max-width: 35rem;
+ }
+.table {
+    font-family: Verdana;
+    font-size: 30px;
+    margin-top: 40px;
+    color: black;
+}
+td > img{
+    max-height: 17rem;
+    max-width: 25rem;
+}
+h3{
+    margin-top: 20px;
+    color: black
+}
+h2{
+    text-align:left;
+    color: black;
+}
+footer{
+    background-color:floralwhite;
+    display:flex;
+    margin:0 auto;
+}
+.card {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+h5 {
+    font-size: 40px;
+    color: aqua;
+    text-align: center;
+}
+
+.card-text{
+    font-size: 20px;
+    text-align:justify;
+}

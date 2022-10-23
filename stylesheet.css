@@ -1,0 +1,41 @@
+﻿div {
+	background-color: lightgrey;
+	
+
+}
+header {
+	width: 100%;
+	height:300px; 
+}
+nav{
+	font-size: 30px;
+	font-family: 'Comic Sans MS';
+	padding: 30px 50px 0 0;
+}
+a
+{
+	color: #fff;
+	margin-left: 10px;
+}
+nav > a:hover
+{
+	text-decoration: underline;
+
+}
+h1 {
+	color: white;
+}
+
+p {
+	font-family: 'Comic Sans MS';
+	font-size: 20px;
+}
+
+li {
+	font-family: 'Comic Sans MS';
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 25px;
+}
