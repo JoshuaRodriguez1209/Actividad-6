@@ -1,9 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700');
 @import url(css/animate.css);
-@import url(css/camera.css);
 @import url(css/flaticon.css);
-@import url(css/prettyPhoto.css);
 @import url(css/owl.carousel.css);
 @import url(css/font-awesome.min.css);
 body {
@@ -342,8 +340,9 @@ a img.aligncenter {
 	padding: 20px 0px;
 }
 
-.heading h3{
-	color: ffffff;
+.heading h3
+{
+	color: #ffffff;
 }
 
 .cd-words-wrapper {
@@ -1364,7 +1363,7 @@ hr.invis1 {
 
 
 .gallery-single{
-	margin: 30px 15px;;
+	margin: 30px 15px;
 }
 
 .gallery-single {
@@ -1619,7 +1618,7 @@ hr.invis1 {
     font-size: 19px;
 }
 .bootstrap-select {
-    width: 100% \0;
+    width: 100% ;
 }
 
 .bootstrap-select > .dropdown-toggle {
